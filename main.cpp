@@ -223,7 +223,7 @@ void Menu(){
         system("cls");
         cout<<"Su dung nhung phim mui ten de di chuyen\n";
         cout<<"Muon thoat khoi tro choi an phim SAPCEBAR hoac BACKSPACE\n";
-        cout<<"\n\tPress any key...";
+        cout<<"\n\tPress any key to exit...";
         _getch();
         break;
     case 32: //phim SAPCEBAR
